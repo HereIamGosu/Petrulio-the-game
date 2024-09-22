@@ -41,12 +41,12 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/petrulio-game.git
+   git clone https://github.com/HereIamGosu/Petrulio--the-game.git
    ```
 
 2. Перейдите в папку проекта:
    ```bash
-   cd petrulio-game
+   cd Petrulio--the-game
    ```
 
 3. Установите необходимые зависимости:
