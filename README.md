@@ -86,7 +86,7 @@
 - Скриншот 2: Сражение с врагами.
 [Сражение с врагами](screenshots/doc_2024-09-22_19-56-21.png)
 - Скриншот 3: Эффект смены дня и ночи.
-[Эффект смены дня и ночи](screenshots/doc_2024-09-22_19-57-15.png)
+[Эффект смены дня и ночи](https://github.com/HereIamGosu/Petrulio--the-game/blob/main/screenshots/doc_2024-09-22_19-57-15.png?raw=true)
 
 ---
 
