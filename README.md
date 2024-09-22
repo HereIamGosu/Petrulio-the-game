@@ -82,11 +82,11 @@
 ## 📸 **Скриншоты**
 
 - Скриншот 1: Petrulio прыгает по платформам.
-[Petrulio прыгает по платформам](screenshots/UJHdxct.png)
+[Petrulio прыгает по платформам](https://github.com/HereIamGosu/Petrulio--the-game/blob/7fcc39a8ca3309b55f64cc1c11483e2c0fb347d9/screenshots/UJHdxct.png)
 - Скриншот 2: Сражение с врагами.
-[Сражение с врагами](screenshots/doc_2024-09-22_19-56-21.png)
+[Сражение с врагами](https://github.com/HereIamGosu/Petrulio--the-game/blob/7fcc39a8ca3309b55f64cc1c11483e2c0fb347d9/screenshots/doc_2024-09-22_19-56-21.png)
 - Скриншот 3: Эффект смены дня и ночи.
-[Эффект смены дня и ночи](https://github.com/HereIamGosu/Petrulio--the-game/blob/main/screenshots/doc_2024-09-22_19-57-15.png?raw=true)
+[Эффект смены дня и ночи](https://github.com/HereIamGosu/Petrulio--the-game/blob/7fcc39a8ca3309b55f64cc1c11483e2c0fb347d9/screenshots/doc_2024-09-22_19-57-15.png)
 
 ---
 
