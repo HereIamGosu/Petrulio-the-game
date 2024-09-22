@@ -82,11 +82,11 @@
 ## 📸 **Скриншоты**
 
 - Скриншот 1: Petrulio прыгает по платформам.
-[https://i.imgur.com/BEzjFeh.png](https://i.imgur.com/UJHdxct.png)
+[Petrulio прыгает по платформам](https://i.imgur.com/UJHdxct.png)
 - Скриншот 2: Сражение с врагами.
-[https://i.imgur.com/2jUWxoN.png](https://i.imgur.com/2jUWxoN.png)
+[Сражение с врагами](https://i.imgur.com/2jUWxoN.png)
 - Скриншот 3: Эффект смены дня и ночи.
-[https://i.imgur.com/i5s7PR7.png](https://i.imgur.com/2jUWxoN.png)
+[Эффект смены дня и ночи](https://i.imgur.com/2jUWxoN.png)
 
 ---
 
